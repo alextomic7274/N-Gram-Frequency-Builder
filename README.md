@@ -41,9 +41,7 @@ Download the java files from this repository then compile and run them on the co
 Java 14+ required.
 
 ```bash
-javac ConsoleColour.java MenuVisuals.java NGramSaver.java Runner.java Menu.java 
-NGramBuilder.java
-Parser.java Utils.java
+javac ConsoleColour.java MenuVisuals.java NGramSaver.java Runner.java Menu.java NGramBuilder.java Parser.java Utils.java
 ```
 
 ## Usage
